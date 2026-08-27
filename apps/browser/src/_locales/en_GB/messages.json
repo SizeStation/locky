@@ -10,7 +10,7 @@
     "description": "Extension name, MUST be less than 40 characters (Safari restriction)"
   },
   "extDesc": {
-    "message": "At home, at work, or on the go, Bitwarden easily secures all your passwords, passkeys, and sensitive information",
+    "message": "At home, at work, or on the go, Locky easily secures all your passwords, passkeys, and sensitive information",
     "description": "Extension description, MUST be less than 112 characters (Safari restriction)"
   },
   "loginOrCreateNewAccount": {
@@ -23,7 +23,7 @@
     "message": "Create account"
   },
   "newToBitwarden": {
-    "message": "New to Bitwarden?"
+    "message": "New to Locky?"
   },
   "logInWithPasskey": {
     "message": "Log in with passkey"
@@ -320,22 +320,22 @@
     "message": "Continue to web app?"
   },
   "continueToWebAppDesc": {
-    "message": "Explore more features of your Bitwarden account on the web app."
+    "message": "Explore more features of your Locky account on the web app."
   },
   "continueToHelpCenter": {
     "message": "Continue to Help Centre?"
   },
   "continueToHelpCenterDesc": {
-    "message": "Learn more about how to use Bitwarden on the Help Centre."
+    "message": "Learn more about how to use Locky on the Help Centre."
   },
   "continueToBrowserExtensionStore": {
     "message": "Continue to browser extension store?"
   },
   "continueToBrowserExtensionStoreDesc": {
-    "message": "Help others find out if Bitwarden is right for them. Visit your browser's extension store and leave a rating now."
+    "message": "Help others find out if Locky is right for them. Visit your browser's extension store and leave a rating now."
   },
   "changeMasterPasswordOnWebConfirmation": {
-    "message": "You can change your master password on the Bitwarden web app."
+    "message": "You can change your master password on the Locky web app."
   },
   "fingerprintPhrase": {
     "message": "Fingerprint phrase",
@@ -352,16 +352,16 @@
     "message": "Log out"
   },
   "aboutBitwarden": {
-    "message": "About Bitwarden"
+    "message": "About Locky"
   },
   "about": {
     "message": "About"
   },
   "moreFromBitwarden": {
-    "message": "More from Bitwarden"
+    "message": "More from Locky"
   },
   "continueToBitwardenDotCom": {
-    "message": "Continue to bitwarden.com?"
+    "message": "Continue to locky.sizestation.cloud?"
   },
   "bitwardenForBusiness": {
     "message": "Bitwarden for Business"
@@ -370,25 +370,25 @@
     "message": "Bitwarden Authenticator"
   },
   "continueToAuthenticatorPageDesc": {
-    "message": "Bitwarden Authenticator allows you to store authenticator keys and generate TOTP codes for 2-step verification flows. Learn more on the bitwarden.com website"
+    "message": "Bitwarden Authenticator allows you to store authenticator keys and generate TOTP codes for 2-step verification flows. Learn more on the locky.sizestation.cloud website"
   },
   "bitwardenSecretsManager": {
     "message": "Bitwarden Secrets Manager"
   },
   "continueToSecretsManagerPageDesc": {
-    "message": "Securely store, manage, and share developer secrets with Bitwarden Secrets Manager. Learn more on the bitwarden.com website."
+    "message": "Securely store, manage, and share developer secrets with Locky Secrets Manager. Learn more on the locky.sizestation.cloud website."
   },
   "passwordlessDotDev": {
     "message": "Passwordless.dev"
   },
   "continueToPasswordlessDotDevPageDesc": {
-    "message": "Create smooth and secure login experiences free from traditional passwords with Passwordless.dev. Learn more on the bitwarden.com website."
+    "message": "Create smooth and secure login experiences free from traditional passwords with Passwordless.dev. Learn more on the locky.sizestation.cloud website."
   },
   "freeBitwardenFamilies": {
-    "message": "Free Bitwarden Families"
+    "message": "Free Locky Families"
   },
   "freeBitwardenFamiliesPageDesc": {
-    "message": "You are eligible for Free Bitwarden Families. Redeem this offer today in the web app."
+    "message": "You are eligible for Free Locky Families. Redeem this offer today in the web app."
   },
   "version": {
     "message": "Version"
@@ -454,10 +454,10 @@
     "message": "Bitwarden Help centre"
   },
   "communityForums": {
-    "message": "Explore Bitwarden community forums"
+    "message": "Explore Locky community forums"
   },
   "contactSupport": {
-    "message": "Contact Bitwarden support"
+    "message": "Contact Locky support"
   },
   "sync": {
     "message": "Sync"
@@ -826,11 +826,11 @@
     "placeholders": {
       "email": {
         "content": "$1",
-        "example": "name@example.com"
+        "example": "name@example.sizestation.cloud"
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "bitwarden.sizestation.cloud"
       }
     }
   },
@@ -842,7 +842,7 @@
     "placeholders": {
       "host": {
         "content": "$1",
-        "example": "vault.bitwarden.com"
+        "example": "vault.bitwarden.sizestation.cloud"
       }
     }
   },
@@ -1095,10 +1095,10 @@
     "message": "Enter a name."
   },
   "twoStepLoginConfirmation": {
-    "message": "Two-step login makes your account more secure by requiring you to verify your login with another device such as a security key, authenticator app, SMS, phone call, or email. Two-step login can be set up on the bitwarden.com web vault. Do you want to visit the website now?"
+    "message": "Two-step login makes your account more secure by requiring you to verify your login with another device such as a security key, authenticator app, SMS, phone call, or email. Two-step login can be set up on the locky.sizestation.cloud web vault. Do you want to visit the website now?"
   },
   "twoStepLoginConfirmationContent": {
-    "message": "Make your account more secure by setting up two-step login in the Bitwarden web app."
+    "message": "Make your account more secure by setting up two-step login in the Locky web app."
   },
   "twoStepLoginConfirmationTitle": {
     "message": "Continue to web app?"
@@ -1149,7 +1149,7 @@
   },
   "addDomain": {
     "message": "Add domain",
-    "description": "'Domain' here refers to an internet domain name (e.g. 'bitwarden.com') and the message in whole described the act of putting a domain value into the context."
+    "description": "'Domain' here refers to an internet domain name (e.g. 'bitwarden.sizestation.cloud') and the message in whole described the act of putting a domain value into the context."
   },
   "addedItem": {
     "message": "Item added"
@@ -1254,7 +1254,7 @@
     "message": "Jump to setting"
   },
   "notificationAddDesc": {
-    "message": "Should Bitwarden remember this password for you?"
+    "message": "Should Locky remember this password for you?"
   },
   "notificationAddSave": {
     "message": "Save"
@@ -1290,11 +1290,11 @@
     }
   },
   "notificationLoginSaveConfirmation": {
-    "message": "saved to Bitwarden.",
+    "message": "saved to Locky.",
     "description": "Shown to user after item is saved."
   },
   "notificationLoginUpdatedConfirmation": {
-    "message": "updated in Bitwarden.",
+    "message": "updated in Locky.",
     "description": "Shown to user after item is updated."
   },
   "selectItemAriaLabel": {
@@ -1392,13 +1392,13 @@
     "message": "Ask to save new passkeys or log in with passkeys stored in your vault. Applies to all logged in accounts."
   },
   "notificationChangeDesc": {
-    "message": "Do you want to update this password in Bitwarden?"
+    "message": "Do you want to update this password in Locky?"
   },
   "notificationChangeSave": {
     "message": "Update"
   },
   "notificationUnlockDesc": {
-    "message": "Unlock your Bitwarden vault to complete the auto-fill request."
+    "message": "Unlock your Locky vault to complete the auto-fill request."
   },
   "notificationUnlock": {
     "message": "Unlock"
@@ -1483,10 +1483,10 @@
     "message": "This password will be used to export and import this file"
   },
   "accountRestrictedOptionDescription": {
-    "message": "Use your account encryption key, derived from your account's username and Master Password, to encrypt the export and restrict import to only the current Bitwarden account."
+    "message": "Use your account encryption key, derived from your account's username and Master Password, to encrypt the export and restrict import to only the current Locky account."
   },
   "passwordProtectedOptionDescription": {
-    "message": "Set a file password to encrypt the export and import it to any Bitwarden account using the password for decryption."
+    "message": "Set a file password to encrypt the export and import it to any Locky account using the password for decryption."
   },
   "exportTypeHeading": {
     "message": "Export type"
@@ -1515,7 +1515,7 @@
     "message": "This export encrypts your data using your account's encryption key. If you ever rotate your account's encryption key you should export again since you will not be able to decrypt this export file."
   },
   "encExportAccountWarningDesc": {
-    "message": "Account encryption keys are unique to each Bitwarden user account, so you can't import an encrypted export into a different account."
+    "message": "Account encryption keys are unique to each Locky user account, so you can't import an encrypted export into a different account."
   },
   "exportMasterPassword": {
     "message": "Enter your master password to export your vault data."
@@ -1542,7 +1542,7 @@
     "message": "New shared folder"
   },
   "bitwardenForBusinessPageDesc": {
-    "message": "Bitwarden for Business allows you to share your vault items with others by using an organisation. Learn more on the bitwarden.com website."
+    "message": "Bitwarden for Business allows you to share your vault items with others by using an organisation. Learn more on the locky.sizestation.cloud website."
   },
   "moveToOrganization": {
     "message": "Move to organisation"
@@ -1675,7 +1675,7 @@
     "message": "Manage membership"
   },
   "premiumManageAlert": {
-    "message": "You can manage your membership on the bitwarden.com web vault. Do you want to visit the website now?"
+    "message": "You can manage your membership on the locky.sizestation.cloud web vault. Do you want to visit the website now?"
   },
   "premiumRefresh": {
     "message": "Refresh membership"
@@ -1723,7 +1723,7 @@
     "message": "Purchase premium"
   },
   "premiumPurchaseAlertV2": {
-    "message": "You can purchase Premium from your account settings on the Bitwarden web app."
+    "message": "You can purchase Premium from your account settings on the Locky web app."
   },
   "premiumFeatures": {
     "message": "Upgrade to premium and receive:"
@@ -1769,7 +1769,7 @@
     "placeholders": {
       "email": {
         "content": "$1",
-        "example": "example@gmail.com"
+        "example": "example@gmail.sizestation.cloud"
       }
     }
   },
@@ -1829,7 +1829,7 @@
     "message": "Authenticator app"
   },
   "authenticatorAppDescV2": {
-    "message": "Enter a code generated by an authenticator app like Bitwarden Authenticator.",
+    "message": "Enter a code generated by an authenticator app like Locky Authenticator.",
     "description": "'Bitwarden Authenticator' is a product name and should not be translated."
   },
   "yubiKeyTitleV2": {
@@ -1862,7 +1862,7 @@
     "message": "Self-hosted environment"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Specify the base URL of your on-premises hosted Bitwarden installation. Example: https://bitwarden.company.com"
+    "message": "Specify the base URL of your on-premises hosted Locky installation. Example: https://bitwarden.sizestation.cloudpany.sizestation.cloud"
   },
   "selfHostedCustomEnvHeader": {
     "message": "For advanced configuration, you can specify the base URL of each service independently."
@@ -1915,7 +1915,7 @@
     "message": "Easily find autofill suggestions"
   },
   "autofillSpotlightDesc": {
-    "message": "Turn off your browser's autofill settings, so they don't conflict with Bitwarden."
+    "message": "Turn off your browser's autofill settings, so they don't conflict with Locky."
   },
   "turnOffBrowserAutofill": {
     "message": "Turn off $BROWSER$ autofill",
@@ -1972,7 +1972,7 @@
     "message": "Show autofill suggestions on form fields"
   },
   "howDoesBitwardenProtectFromPhishing": {
-    "message": "How does Bitwarden protect your data from phishing?"
+    "message": "How does Locky protect your data from phishing?"
   },
   "currentWebsite": {
     "message": "Current website"
@@ -2783,19 +2783,19 @@
   },
   "baseDomain": {
     "message": "Base domain",
-    "description": "Domain name. Ex. website.com"
+    "description": "Domain name. Ex. website.sizestation.cloud"
   },
   "baseDomainOptionRecommended": {
     "message": "Base domain (recommended)",
-    "description": "Domain name. Ex. website.com"
+    "description": "Domain name. Ex. website.sizestation.cloud"
   },
   "domainName": {
     "message": "Domain name",
-    "description": "Domain name. Ex. website.com"
+    "description": "Domain name. Ex. website.sizestation.cloud"
   },
   "host": {
     "message": "Host",
-    "description": "A URL's host value. For example, the host of https://sub.domain.com:443 is 'sub.domain.com:443'."
+    "description": "A URL's host value. For example, the host of https://sub.domain.sizestation.cloud:443 is 'sub.domain.sizestation.cloud:443'."
   },
   "exact": {
     "message": "Exact"
@@ -2897,7 +2897,7 @@
     "message": "Weak master password"
   },
   "weakMasterPasswordDesc": {
-    "message": "The master password you have chosen is weak. You should use a strong master password (or a passphrase) to properly protect your Bitwarden account. Are you sure you want to use this master password?"
+    "message": "The master password you have chosen is weak. You should use a strong master password (or a passphrase) to properly protect your Locky account. Are you sure you want to use this master password?"
   },
   "rotateAccountEncKey": {
     "message": "Also rotate my account's encryption key"
@@ -2909,7 +2909,7 @@
     "message": "Are you sure you want to rotate your account's encryption key?"
   },
   "updateEncryptionKeyWarning": {
-    "message": "After updating your encryption key, you are required to log out and back in to all Bitwarden applications that you are currently using (such as the mobile app or browser extensions). Failure to log out and back in (which downloads your new encryption key) may result in data corruption. We will attempt to log you out automatically, however, it may be delayed."
+    "message": "After updating your encryption key, you are required to log out and back in to all Locky applications that you are currently using (such as the mobile app or browser extensions). Failure to log out and back in (which downloads your new encryption key) may result in data corruption. We will attempt to log you out automatically, however, it may be delayed."
   },
   "updateEncryptionKeyAccountExportWarning": {
     "message": "Any account restricted exports you have saved will become invalid."
@@ -2937,10 +2937,10 @@
     "message": "Set PIN"
   },
   "setYourPinCode": {
-    "message": "Set your PIN code for unlocking Bitwarden. Your PIN settings will be reset if you ever fully log out of the application."
+    "message": "Set your PIN code for unlocking Locky. Your PIN settings will be reset if you ever fully log out of the application."
   },
   "setPinCode": {
-    "message": "You can use this PIN to unlock Bitwarden. Your PIN will be reset if you ever fully log out of the application."
+    "message": "You can use this PIN to unlock Locky. Your PIN will be reset if you ever fully log out of the application."
   },
   "pinRequired": {
     "message": "PIN code is required."
@@ -2961,7 +2961,7 @@
     "message": "Awaiting confirmation from desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden desktop application to set up biometrics for browser."
+    "message": "Please confirm using biometrics in the Locky desktop application to set up biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Lock with master password on browser restart"
@@ -3076,16 +3076,16 @@
     "message": "The form is hosted by a different domain than the URI of your saved login. Choose OK to auto-fill anyway, or Cancel to stop."
   },
   "autofillIframeWarningTip": {
-    "message": "To prevent this warning in the future, save this URI, $HOSTNAME$, to your Bitwarden login item for this site.",
+    "message": "To prevent this warning in the future, save this URI, $HOSTNAME$, to your Locky login item for this site.",
     "placeholders": {
       "hostname": {
         "content": "$1",
-        "example": "www.example.com"
+        "example": "www.example.sizestation.cloud"
       }
     }
   },
   "topLayerHijackWarning": {
-    "message": "This page is interfering with the Bitwarden experience. The Bitwarden inline menu has been temporarily disabled as a safety measure."
+    "message": "This page is interfering with the Locky experience. The Locky inline menu has been temporarily disabled as a safety measure."
   },
   "setMasterPassword": {
     "message": "Set master password"
@@ -3142,7 +3142,7 @@
     "message": "Your new master password does not meet the policy requirements."
   },
   "receiveMarketingEmails": {
-    "message": "Receive updates from Bitwarden in your inbox."
+    "message": "Receive updates from Locky in your inbox."
   },
   "unsubscribe": {
     "message": "Unsubscribe"
@@ -3193,13 +3193,13 @@
     "message": "Browser integration is not set up"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not set up in the Bitwarden desktop application. Please set it up in the settings within the desktop application."
+    "message": "Browser integration is not set up in the Locky desktop application. Please set it up in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden desktop application"
+    "message": "Start the Locky desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden desktop application needs to be started before unlock with biometrics can be used."
+    "message": "The Locky desktop application needs to be started before unlock with biometrics can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "Unable to set up biometrics"
@@ -3253,13 +3253,13 @@
     "message": "Biometrics failed"
   },
   "biometricsFailedDesc": {
-    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Bitwarden support."
+    "message": "Biometrics cannot be completed, consider using a master password or logging out. If this persists, please contact Locky support."
   },
   "nativeMessagingPermissionErrorTitle": {
     "message": "Permission not provided"
   },
   "nativeMessagingPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Locky Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "nativeMessagingPermissionSidebarTitle": {
     "message": "Permission request error"
@@ -3428,24 +3428,24 @@
     "message": "Illustration of a list of logins that are at-risk."
   },
   "welcomeDialogGraphicAlt": {
-    "message": "Illustration of the layout of the Bitwarden vault page."
+    "message": "Illustration of the layout of the Locky vault page."
   },
   "generatePasswordSlideDesc": {
-    "message": "Quickly generate a strong, unique password with the Bitwarden autofill menu on the at-risk site.",
+    "message": "Quickly generate a strong, unique password with the Locky autofill menu on the at-risk site.",
     "description": "Description of the generate password slide on the at-risk password page carousel"
   },
   "generatePasswordSlideImgAltPeriod": {
-    "message": "Illustration of the Bitwarden autofill menu displaying a generated password."
+    "message": "Illustration of the Locky autofill menu displaying a generated password."
   },
   "updateInBitwarden": {
-    "message": "Update in Bitwarden"
+    "message": "Update in Locky"
   },
   "updateInBitwardenSlideDesc": {
     "message": "Bitwarden will then prompt you to update the password in the password manager.",
-    "description": "Description of the update in Bitwarden slide on the at-risk password page carousel"
+    "description": "Description of the update in Locky slide on the at-risk password page carousel"
   },
   "updateInBitwardenSlideImgAltPeriod": {
-    "message": "Illustration of a Bitwarden’s notification prompting the user to update the login."
+    "message": "Illustration of a Locky’s notification prompting the user to update the login."
   },
   "turnOnAutofill": {
     "message": "Turn on autofill"
@@ -3470,7 +3470,7 @@
     "placeholders": {
       "domain": {
         "content": "$1",
-        "example": "duckduckgo.com"
+        "example": "duckduckgo.sizestation.cloud"
       }
     }
   },
@@ -4012,7 +4012,7 @@
   },
   "plusAddressedEmail": {
     "message": "Plus addressed email",
-    "description": "Username generator option that appends a random sub-address to the username. For example: address+subaddress@email.com"
+    "description": "Username generator option that appends a random sub-address to the username. For example: address+subaddress@email.sizestation.cloud"
   },
   "plusAddressedEmailDesc": {
     "message": "Use your email provider's sub-addressing capabilities."
@@ -4064,16 +4064,16 @@
     }
   },
   "forwarderGeneratedBy": {
-    "message": "Generated by Bitwarden.",
+    "message": "Generated by Locky.",
     "description": "Displayed with the address on the forwarding service's configuration screen."
   },
   "forwarderGeneratedByWithWebsite": {
-    "message": "Website: $WEBSITE$. Generated by Bitwarden.",
+    "message": "Website: $WEBSITE$. Generated by Locky.",
     "description": "Displayed with the address on the forwarding service's configuration screen.",
     "placeholders": {
       "WEBSITE": {
         "content": "$1",
-        "example": "www.example.com"
+        "example": "www.example.sizestation.cloud"
       }
     }
   },
@@ -4210,7 +4210,7 @@
     "placeholders": {
       "domain": {
         "content": "$1",
-        "example": "example.com"
+        "example": "example.sizestation.cloud"
       }
     }
   },
@@ -4266,7 +4266,7 @@
     "message": "A notification has been sent to your device."
   },
   "notificationSentDevicePart1": {
-    "message": "Unlock Bitwarden on your device or on the"
+    "message": "Unlock Locky on your device or on the"
   },
   "notificationSentDeviceAnchor": {
     "message": "web app"
@@ -4294,7 +4294,7 @@
     "placeholders": {
       "email": {
         "content": "$1",
-        "example": "name@example.com"
+        "example": "name@example.sizestation.cloud"
       },
       "device": {
         "content": "$2",
@@ -4473,7 +4473,7 @@
     "placeholders": {
       "email": {
         "content": "$1",
-        "example": "name@example.com"
+        "example": "name@example.sizestation.cloud"
       }
     }
   },
@@ -4770,7 +4770,7 @@
     "description": "Page title for the iframe containing the overlay button"
   },
   "toggleBitwardenVaultOverlay": {
-    "message": "Toggle Bitwarden auto-fill menu",
+    "message": "Toggle Locky auto-fill menu",
     "description": "Screen reader and tool tip label for the overlay button"
   },
   "bitwardenVault": {
@@ -5226,7 +5226,7 @@
     "message": "Using the Password Boss desktop application, navigate to \"File\" → \"Export data\" → \"Password Boss JSON - not encrypted\" and save the JSON file."
   },
   "importZohoInstructions": {
-    "message": "Log into the Zoho web vault (vault.zoho.com). Navigate to \"Tools\" → \"Export Secrets\". Select \"All Secrets\" and click the \"Zoho Vault Format CSV\" button. Highlight and copy the data from the textarea. Open a text editor like Notepad and paste the data. Save the data from the text editor as",
+    "message": "Log into the Zoho web vault (vault.zoho.sizestation.cloud). Navigate to \"Tools\" → \"Export Secrets\". Select \"All Secrets\" and click the \"Zoho Vault Format CSV\" button. Highlight and copy the data from the textarea. Open a text editor like Notepad and paste the data. Save the data from the text editor as",
     "description": "Followed by a literal filename (zoho_export.csv) rendered as code, then a period."
   },
   "importSplashidInstructions": {
@@ -5259,7 +5259,7 @@
     "description": "Followed by a literal filename (my_passwords.json) rendered as code."
   },
   "importGnomeInstructionsFileHere": {
-    "message": "file here to Bitwarden.",
+    "message": "file here to Locky.",
     "description": "Follows the my_passwords.json filename."
   },
   "importPasswordagentInstructions": {
@@ -5765,7 +5765,7 @@
     "placeholders": {
       "domain": {
         "content": "$1",
-        "example": "duckduckgo.com"
+        "example": "duckduckgo.sizestation.cloud"
       }
     }
   },
@@ -5774,8 +5774,8 @@
     "description": "Label indicating the most common import formats"
   },
   "uriMatchDefaultStrategyHint": {
-    "message": "URI match detection is how Bitwarden identifies autofill suggestions.",
-    "description": "Explains to the user that URI match detection determines how Bitwarden suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
+    "message": "URI match detection is how Locky identifies autofill suggestions.",
+    "description": "Explains to the user that URI match detection determines how Locky suggests autofill options, and clarifies that this default strategy applies when no specific match detection is set for a login item."
   },
   "regExAdvancedOptionWarning": {
     "message": "\"Regular expression\" is an advanced option with increased risk of exposing credentials.",
@@ -5818,24 +5818,24 @@
     "description": "Body content for dialog which asks if the user wants to proceed to the browser's keyboard shortcut settings page"
   },
   "overrideDefaultBrowserAutofillTitle": {
-    "message": "Make Bitwarden your default password manager?",
+    "message": "Make Locky your default password manager?",
     "description": "Dialog title facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutofillDescription": {
-    "message": "Ignoring this option may cause conflicts between the Bitwarden auto-fill menu and your browser's.",
+    "message": "Ignoring this option may cause conflicts between the Locky auto-fill menu and your browser's.",
     "description": "Dialog message facilitating the ability to override a chrome browser's default autofill behavior"
   },
   "overrideDefaultBrowserAutoFillSettings": {
-    "message": "Make Bitwarden your default password manager",
+    "message": "Make Locky your default password manager",
     "description": "Label for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerCalloutTitle": {
     "message": "Make your autofill experience better",
-    "description": "Title for the callout that prompts users to set Bitwarden as their default password manager"
+    "description": "Title for the callout that prompts users to set Locky as their default password manager"
   },
   "defaultPasswordManagerCalloutDesc": {
-    "message": "You'll be asked to grant a $BROWSER$ browser permission to make Bitwarden your default password manager.",
-    "description": "Description for the callout that prompts users to set Bitwarden as their default password manager",
+    "message": "You'll be asked to grant a $BROWSER$ browser permission to make Locky your default password manager.",
+    "description": "Description for the callout that prompts users to set Locky as their default password manager",
     "placeholders": {
       "browser": {
         "content": "$1",
@@ -5844,11 +5844,11 @@
     }
   },
   "privacyPermissionAdditionNotGrantedTitle": {
-    "message": "Unable to set Bitwarden as the default password manager",
+    "message": "Unable to set Locky as the default password manager",
     "description": "Title for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "privacyPermissionAdditionNotGrantedDescription": {
-    "message": "You must grant browser privacy permissions to Bitwarden to set it as the default password manager.",
+    "message": "You must grant browser privacy permissions to Locky to set it as the default password manager.",
     "description": "Description for the dialog that appears when the user has not granted the extension permission to set privacy settings"
   },
   "makeDefault": {
@@ -5856,11 +5856,11 @@
     "description": "Button text for the setting that allows overriding the default browser autofill settings"
   },
   "defaultPasswordManagerPromptTitle": {
-    "message": "Make Bitwarden your browser's default password manager"
+    "message": "Make Locky your browser's default password manager"
   },
   "defaultPasswordManagerPromptTitleV2": {
-    "message": "Make Bitwarden your default password manager",
-    "description": "Label for the setting to make Bitwarden the default password manager"
+    "message": "Make Locky your default password manager",
+    "description": "Label for the setting to make Locky the default password manager"
   },
   "defaultPasswordManagerSettingHintV2": {
     "message": "Turn off the browser autofill settings to avoid conflicts.",
@@ -5871,13 +5871,13 @@
     "description": "Link text to browser autofill settings in the default password manager setting hint."
   },
   "defaultPasswordManagerPromptStep2AfterAllow": {
-    "message": "from the browser prompt to give Bitwarden permission to change your settings."
+    "message": "from the browser prompt to give Locky permission to change your settings."
   },
   "defaultPasswordManagerPromptStep3": {
     "message": "We'll turn off your browser's built-in password manager so you can enjoy a secure login experience."
   },
   "defaultPasswordManagerSuccessToast": {
-    "message": "Made Bitwarden your default browser password manager"
+    "message": "Made Locky your default browser password manager"
   },
   "allow": {
     "message": "Allow",
@@ -6279,16 +6279,16 @@
     "message": "Download Attachment"
   },
   "downloadBitwarden": {
-    "message": "Download Bitwarden"
+    "message": "Download Locky"
   },
   "downloadBitwardenOnAllDevices": {
-    "message": "Download Bitwarden on all devices"
+    "message": "Download Locky on all devices"
   },
   "getTheMobileApp": {
     "message": "Get the mobile app"
   },
   "getTheMobileAppDesc": {
-    "message": "Access your passwords on the go with the Bitwarden mobile app."
+    "message": "Access your passwords on the go with the Locky mobile app."
   },
   "getTheDesktopApp": {
     "message": "Get the desktop app"
@@ -6297,7 +6297,7 @@
     "message": "Access your vault without a browser, then set up unlock with biometrics to expedite unlocking in both the desktop app and browser extension."
   },
   "downloadFromBitwardenNow": {
-    "message": "Download from bitwarden.com now"
+    "message": "Download from locky.sizestation.cloud now"
   },
   "getItOnGooglePlay": {
     "message": "Get it on Google Play"
@@ -6432,7 +6432,7 @@
     "placeholders": {
       "website": {
         "content": "$1",
-        "example": "https://example.com"
+        "example": "https://example.sizestation.cloud"
       }
     }
   },
@@ -6752,7 +6752,7 @@
     "placeholders": {
       "email": {
         "content": "$1",
-        "example": "name@example.com"
+        "example": "name@example.sizestation.cloud"
       }
     }
   },
@@ -6838,14 +6838,14 @@
     "message": "Biometric unlock is unavailable due to misconfigured system files."
   },
   "biometricsStatusHelptextDesktopDisconnected": {
-    "message": "Biometric unlock is unavailable because the Bitwarden desktop app is closed."
+    "message": "Biometric unlock is unavailable because the Locky desktop app is closed."
   },
   "biometricsStatusHelptextNotEnabledInDesktop": {
-    "message": "Biometric unlock is unavailable because it is not enabled for $EMAIL$ in the Bitwarden desktop app.",
+    "message": "Biometric unlock is unavailable because it is not enabled for $EMAIL$ in the Locky desktop app.",
     "placeholders": {
       "email": {
         "content": "$1",
-        "example": "mail@example.com"
+        "example": "mail@example.sizestation.cloud"
       }
     }
   },
@@ -6873,8 +6873,8 @@
     "description": "Notification message for when a password has been regenerated"
   },
   "saveToBitwarden": {
-    "message": "Save to Bitwarden",
-    "description": "Confirmation message for saving a login to Bitwarden"
+    "message": "Save to Locky",
+    "description": "Confirmation message for saving a login to Locky"
   },
   "spaceCharacterDescriptor": {
     "message": "Space",
@@ -7108,13 +7108,13 @@
     "message": "The vault protects more than just your passwords. Store secure logins, IDs, cards and notes securely here."
   },
   "introCarouselLabel": {
-    "message": "Welcome to Bitwarden"
+    "message": "Welcome to Locky"
   },
   "securityPrioritized": {
     "message": "Security, prioritised"
   },
   "securityPrioritizedBody": {
-    "message": "Save logins, cards, and identities to your secure vault. Bitwarden uses zero-knowledge, end-to-end encryption to protect what’s important to you."
+    "message": "Save logins, cards, and identities to your secure vault. Locky uses zero-knowledge, end-to-end encryption to protect what’s important to you."
   },
   "quickLogin": {
     "message": "Quick and easy login"
@@ -7132,7 +7132,7 @@
     "message": "Your data, when and where you need it"
   },
   "secureDevicesBody": {
-    "message": "Save unlimited passwords across unlimited devices with Bitwarden mobile, browser, and desktop apps."
+    "message": "Save unlimited passwords across unlimited devices with Locky mobile, browser, and desktop apps."
   },
   "nudgeBadgeAria": {
     "message": "1 notification"
@@ -7141,7 +7141,7 @@
     "message": "Import existing passwords"
   },
   "emptyVaultNudgeBody": {
-    "message": "Use the importer to quickly transfer logins to Bitwarden without manually adding them."
+    "message": "Use the importer to quickly transfer logins to Locky without manually adding them."
   },
   "emptyVaultNudgeButton": {
     "message": "Import now"
@@ -7269,7 +7269,7 @@
     "message": "You do not have permissions to view this page. Try logging in with a different account."
   },
   "wasmNotSupported": {
-    "message": "WebAssembly is not supported on your browser or is not enabled. WebAssembly is required to use the Bitwarden app.",
+    "message": "WebAssembly is not supported on your browser or is not enabled. WebAssembly is required to use the Locky app.",
     "description": "'WebAssembly' is a technical term and should not be translated."
   },
   "showMore": {
@@ -7348,7 +7348,7 @@
     "message": "Error: Cannot decrypt"
   },
   "removeMasterPasswordForOrgUserKeyConnector": {
-    "message": "Your organisation is no longer using master passwords to log into Bitwarden. To continue, verify the organisation and domain."
+    "message": "Your organisation is no longer using master passwords to log into Locky. To continue, verify the organisation and domain."
   },
   "continueWithLogIn": {
     "message": "Continue with log in"
@@ -7434,7 +7434,7 @@
     "message": "Set an unlock method to change your timeout action"
   },
   "sessionTimeoutSuppressedByConnectedDevice": {
-    "message": "Managed by the Bitwarden desktop app. Open the desktop app to edit."
+    "message": "Managed by the Locky desktop app. Open the desktop app to edit."
   },
   "percentageCompleted": {
     "message": "$PERCENT$% complete",
@@ -7530,13 +7530,13 @@
     "message": "Enter multiple emails by separating with a comma."
   },
   "emailPlaceholder": {
-    "message": "user@bitwarden.com , user@acme.com"
+    "message": "user@bitwarden.sizestation.cloud , user@acme.sizestation.cloud"
   },
   "emailPlaceholderMultiple": {
-    "message": "user@bitwarden.com, user@acme.com"
+    "message": "user@bitwarden.sizestation.cloud, user@acme.sizestation.cloud"
   },
   "downloadBitwardenApps": {
-    "message": "Download Bitwarden apps"
+    "message": "Download Locky apps"
   },
   "emailProtected": {
     "message": "Email protected"
@@ -7555,13 +7555,13 @@
     "message": "Share unlock with Desktop"
   },
   "sharedUnlockWithDesktopDescription": {
-    "message": "When enabled, unlock state will be shared with the Bitwarden Desktop app."
+    "message": "When enabled, unlock state will be shared with the Locky Desktop app."
   },
   "sharedUnlockWithWeb": {
     "message": "Share unlock with web vault"
   },
   "sharedUnlockWithWebDescription": {
-    "message": "When enabled, unlock state will be shared with Bitwarden web vaults."
+    "message": "When enabled, unlock state will be shared with Locky web vaults."
   },
   "sharedUnlockUnavailableUntrustedDevice": {
     "message": "Shared unlock is not available because you chose not to remember this device. To enable this setting, try logging in again."
@@ -7570,13 +7570,13 @@
     "message": "New permission needed"
   },
   "sharedUnlockDesktopPermissionDesc": {
-    "message": "To use shared unlock, Bitwarden needs permission to communicate with the desktop app. When you continue, your browser will ask you to approve it."
+    "message": "To use shared unlock, Locky needs permission to communicate with the desktop app. When you continue, your browser will ask you to approve it."
   },
   "sharedUnlockDesktopPermissionWarning": {
     "message": "Bitwarden will lock and reload. After you approve, the extension reloads and will lock your vault."
   },
   "biometricPermissionDesc": {
-    "message": "To use biometric unlock, Bitwarden needs permission to communicate with the desktop app. When you continue, your browser will ask you to approve it."
+    "message": "To use biometric unlock, Locky needs permission to communicate with the desktop app. When you continue, your browser will ask you to approve it."
   },
   "enterMonth": {
     "message": "Enter month."
